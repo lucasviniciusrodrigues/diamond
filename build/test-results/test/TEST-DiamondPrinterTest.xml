@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="DiamondPrinterTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2021-06-19T17:00:47" hostname="DESKTOP-BT3U9PM" time="0.047">
+  <properties/>
+  <testcase name="testFourByFourDiamond" classname="DiamondPrinterTest" time="0.045"/>
+  <testcase name="testFullDiamond" classname="DiamondPrinterTest" time="0.001"/>
+  <testcase name="testThreeByThreeDiamond" classname="DiamondPrinterTest" time="0.0"/>
+  <testcase name="testOneByOneDiamond" classname="DiamondPrinterTest" time="0.001"/>
+  <testcase name="testTwoByTwoDiamond" classname="DiamondPrinterTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
